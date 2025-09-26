@@ -28,8 +28,3 @@
 - Communication 🗣️
 - Teamwork & Collaboration🤝
 - Problem-Solving 👩🏻‍💻
-
-
-- Communication  
-- Teamwork & Collaboration  
-- Problem-Solving
