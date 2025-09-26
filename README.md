@@ -14,6 +14,7 @@
 - 📊 Data Analysis and Problem-Solving  
 - 🚀 Exploring new technologies and continuous learning  
 ---
+
 ## 🛠️ Skills  
 
 ### 💻 Programming Languages  
