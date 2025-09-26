@@ -28,3 +28,7 @@
 - Communication 🗣️
 - Teamwork & Collaboration🤝
 - Problem-Solving 👩🏻‍💻
+---
+## 📊 إحصائيات GitHub
+
+  ![إحصائيات GitHub](https://github-readme-stats.vercel.app/api?username=Dania-khudier&show_icons=true&theme=radical)
