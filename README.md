@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Prolog-742575?style=for-the-badge&logo=swi-prolog&logoColor=white" />
 </p>
 
+
 ### 📚 Areas of Expertise & Learning</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Science-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
@@ -49,6 +50,7 @@
   <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Frontend_Dev-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
+
 
 ### ⚙️ Tools & Environments</h3>
 <p align="center">
