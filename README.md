@@ -9,7 +9,7 @@
 ---
 
 ## 💡 Interests  
-- 🤖 Artificial Intelligence (AI)  
+- 🤖 Artificial Intelligence (AI) & Machine Learning
 - 🎨 Web Design & Front-End Development  
 - 📊 Data Analysis and Problem-Solving  
 - 🚀 Exploring new technologies and continuous learning  
