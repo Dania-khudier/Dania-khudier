@@ -90,8 +90,8 @@
 ## 📫 Let's Connect
 
 - 💬 I'm always open to tech discussions, collaboration ideas, or just a friendly chat about innovation.
-- 📧 Feel free to reach out via **GitHub Discussions** or connect with me on professional platforms (links coming soon!).
-- 🌱 Currently focused on building my portfolio – stay tuned for exciting projects!
+- 📧 Feel free to reach out via **GitHub Discussions** or connect with me on professional platforms.
+- 🌱 Currently focused on building my portfolio !
 
 ---
 
