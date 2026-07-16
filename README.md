@@ -35,7 +35,10 @@
 ![Prolog](https://img.shields.io/badge/Prolog-742575?style=for-the-badge&logo=swi-prolog&logoColor=white)
 
 ### 📚 Areas of Expertise & Learning
+![Data Science](https://img.shields.io/badge/Data_Science-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-4B8BBE?style=for-the-badge&logo=pandas&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge&logo=tableau&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00B4D8?style=for-the-badge&logo=spacy&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Frontend Dev](https://img.shields.io/badge/Frontend_Dev-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
@@ -44,7 +47,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ---
 
 ## 🧠 Current Focus & Projects
