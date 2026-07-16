@@ -66,7 +66,7 @@
 
 ## 🧠 Current Focus & Projects
 
-*Instead of listing dummy repositories, here is what I am currently working on and passionate about:*
+* here is what I am currently working on and passionate about:*
 
 | Area | Description |
 |------|-------------|
