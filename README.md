@@ -35,12 +35,14 @@
 ![Prolog](https://img.shields.io/badge/Prolog-742575?style=for-the-badge&logo=swi-prolog&logoColor=white)
 
 ### 📚 Areas of Expertise & Learning
-![Data Science](https://img.shields.io/badge/Data_Science-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-4B8BBE?style=for-the-badge&logo=pandas&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge&logo=tableau&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-00B4D8?style=for-the-badge&logo=spacy&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Frontend Dev](https://img.shields.io/badge/Frontend_Dev-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Science-0A66C2?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-4B8BBE?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-00B4D8?style=flat-square&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend_Dev-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
 
 ### ⚙️ Tools & Environments
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
