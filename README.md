@@ -24,7 +24,7 @@
 
 ## 🛠️ Tech Stack
 
-<h3 align="center">💻 Programming Languages</h3>
+### 💻 Programming Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Prolog-742575?style=for-the-badge&logo=swi-prolog&logoColor=white" />
 </p>
 
-<h3 align="center">📚 Areas of Expertise & Learning</h3>
+### 📚 Areas of Expertise & Learning</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Science-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Data_Analysis-4B8BBE?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Frontend_Dev-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
-<h3 align="center">⚙️ Tools & Environments</h3>
+### ⚙️ Tools & Environments</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
