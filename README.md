@@ -31,12 +31,12 @@
   <img src="https://img.shields.io/badge/HTML5-61DAFB?style=for-the-badge&logo=html5&logoColor=black" />
   <img src="https://img.shields.io/badge/CSS3-61DAFB?style=for-the-badge&logo=css3&logoColor=black" />
   <br />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-61DAFB?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-61DAFB?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-61DAFB?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-61DAFB?style=for-the-badge&logo=mysql&logoColor=white" />
   <br />
-  <img src="https://img.shields.io/badge/Prolog-742575?style=for-the-badge&logo=swi-prolog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prolog-61DAFB?style=for-the-badge&logo=swi-prolog&logoColor=white" />
 </p>
 
 
