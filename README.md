@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/PHP-61DAFB?style=for-the-badge&logo=php&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-61DAFB?style=for-the-badge&logo=mysql&logoColor=black" />
   <br />
-  <img src="https://img.shields.io/badge/Prolog-61DAFB?style=for-the-badge&logo=swi-prolog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prolog-61DAFB?style=for-the-badge&logo=swi-prolog&logoColor=black" />
 </p>
 
 
