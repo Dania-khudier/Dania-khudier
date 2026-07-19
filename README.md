@@ -49,7 +49,7 @@
   <br />
   <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Frontend_Dev-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Backend_Dev-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Backend_Dev-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 
